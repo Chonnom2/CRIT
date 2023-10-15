@@ -1,4 +1,5 @@
 # CRIT
+[https://crithub.shop/](https://crithub.shop/)
 
 ## 프로젝트 개요
 
